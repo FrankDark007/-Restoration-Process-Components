@@ -1,0 +1,5 @@
+{
+  "name": "Restoration Process Components",
+  "description": "A collection of 4 distinct process timeline layouts (Timeline, Accordion, Bento, Cards) for a restoration service, featuring React, Tailwind CSS, and Lucide icons.",
+  "requestFramePermissions": []
+}
